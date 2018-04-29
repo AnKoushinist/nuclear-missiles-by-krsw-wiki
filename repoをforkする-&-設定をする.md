@@ -4,7 +4,7 @@ GitLabに登録しなければ、forkをすることはできません。
 
 # forkする
 1. [このrepoのトップページを開く](https://gitlab.com/AnKoushinist/nuclear-missiles-by-krsw)
-2. このボタンを押す ![画像](https://imgur.com/download/pds6L6H)
+2. このボタンを押す ![画像](/uploads/706ffda577df755bdebbeed56210b1bc/pds6L6H_-_Imgur.jpg)
 3. fork完了。貴職のアカウントにこのrepoの複製ができるはずです
 
 # 設定をする
