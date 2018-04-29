@@ -1,5 +1,7 @@
-nuclear-missiles-by-krswへようこそ
+# nuclear-missiles-by-krswへようこそ
 
 [仕組み解説](仕組み解説)    
-[forkする](repoをforkする-&-設定をする)    
-[核爆弾を投下する](核爆弾を投下する)
+
+# 核爆弾ご利用の方へ
+1. [forkする](repoをforkする-&-設定をする)    
+2. [核爆弾を投下する](核爆弾を投下する)
