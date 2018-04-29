@@ -8,5 +8,12 @@ GitLabに登録しなければ、forkをすることはできません。
 3. fork完了。貴職のアカウントにこのrepoの複製ができるはずです
 
 # 設定をする
-## Joooob Timeoutを2日にする
-WIP
+## Job Timeoutを2日にする
+![howtoconfigure](/uploads/7036b0d0527c9a7218a92fe6209d359a/howtoconfigure.webm)
+以下文字での説明
+1. Settingsにカーソルを合わせ、CI/CDをクリック
+2. 一番右上のExpandをクリック
+3. 下にスクロールして、Timeoutの値を2dに変更する
+4. Auto-cancel redundant, pending pipelinesを外しておく (任意)
+5. Save Changesをクリック
+6. 完了。最大実行時間は2日となりました。
